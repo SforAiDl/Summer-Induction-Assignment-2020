@@ -1,0 +1,5 @@
+*.pt
+*.pyc
+*.csv#
+solved_*.py
+.vscode/settings.json

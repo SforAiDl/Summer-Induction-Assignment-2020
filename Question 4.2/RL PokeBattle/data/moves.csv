@@ -1,0 +1,22 @@
+move,type,power,pp,accuracy
+Fire Blast,Fire,110,5,0.85
+Growl,Normal,0,10,1
+Fire Punch,Fire,75,15,1
+Ember,Fire,40,25,1
+Thunder Punch,Electric,75,15,1
+Inferno,Fire,100,5,0.5
+Seed Bomb,Grass,80,15,1
+Hydropump,Water,110,5,0.8
+Ice Punch,Ice,75,15,1
+Waterfall,Water,80,15,1
+Razor Shell,Water,75,10,0.95
+Thunder,Electric,110,10,0.7
+Zap Cannon,Electric,120,5,0.5
+Leaf Blade,Grass,90,15,100
+Leaf Storm,Grass,130,15,0.9
+Ice Beam,Ice,90,15,1
+Blizzard,Ice,110,5,0.7
+Powder Snow,Ice,40,25,1
+Skull Bash,Normal,130,10,1
+Hyper Beam,Normal,150,5,0.9
+Rock Climb,Normal,90,20,0.85

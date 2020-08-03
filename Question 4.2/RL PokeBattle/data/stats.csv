@@ -1,0 +1,13 @@
+pokemon,type,hp,move1,move2,move3,move4
+Squirtle,Water,292,Waterfall,Hydropump,Growl,Rock Climb
+Bulbasaur,Grass,294,Skull Bash,Growl,Leaf Blade,Seed Bomb
+Charmander,Fire,282,Fire Punch,Ember,Inferno,Growl
+Jigglypuff,Normal,434,Fire Blast,Razor Shell,Blizzard,Hyper Beam
+Cubchoo,Ice,314,Ice Beam,Blizzard,Ice Punch,Razor Shell
+Pikachu,Electric,274,Thunder,Zap Cannon,Fire Punch,Growl
+Totodile,Water,304,Growl,Hydropump,Powder Snow,Ice Beam
+Treecko,Grass,284,Leaf Blade,Hyper Beam,Growl,Seed Bomb
+Growlithe,Fire,314,Fire Punch,Inferno,Hyper Beam,Growl
+Snorlax,Normal,524,Hyper Beam,Blizzard,Skull Bash,Fire Punch
+Spheal,Ice,344,Ice Punch,Waterfall,Ice Beam,Rock Climb
+Electrode,Electric,324,Zap Cannon,Thunder Punch,Hyper Beam,Thunder
