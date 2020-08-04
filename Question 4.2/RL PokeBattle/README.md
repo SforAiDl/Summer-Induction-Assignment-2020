@@ -23,7 +23,7 @@ Your job is to design an RL agent which can learn how to play a Pokemon Battle a
 
 ## What to do?
 - Go through the assignment PDF for the full questions
-- Go through all the issues and try to solve them and pay attention to their labels too
+- Go through `Tutorial.md` and `Pointers.md`
 - Implement an Agent which will finally be able to win every Pokemon Battle and help Ash to cheat his way to the trophy!
 
 ## Additional Pointers:
